@@ -6,7 +6,10 @@ public class Calculator {
 		// TODO Auto-generated method stub
 		System.out.println("Calculator is initialized");
 		System.out.println("Test_push_Home");
-		System.out.println("Conflic_Test");
+
+		System.out.println("Conflic_Test & merge!");
+
+
 	}
 
 }
